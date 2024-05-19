@@ -7,7 +7,7 @@ Maintaining high-quality products and services is crucial for success in today�
 
 Non-conformance management is a systematic approach for identifying, documenting, evaluating, and addressing deviations from established regulatory requirements. Whether it’s a defective product, a service falling short of expectations, or a process not meeting standards, non-conformances can impact an organization’s bottom line and reputation. The objectives of non-conformance management are twofold:
 
-Immediate Resolution: Organizations must promptly address non-conformances when they occur.  Immediate resolution involves identifying the issue, recording relevant data, and creating an action plan to either bring the nonconforming element up to standards or dispose of it.
+###Immediate Resolution###: Organizations must promptly address non-conformances when they occur.  Immediate resolution involves identifying the issue, recording relevant data, and creating an action plan to either bring the nonconforming element up to standards or dispose of it.
 Prevention: Beyond addressing individual instances, non-conformance management aims to prevent future occurrences. By analyzing data collected during the process, organizations can fine-tune their processes, reduce risks, and maintain compliance.
 Leveraging Nonconformance Management Software for Continuous Quality Management 
 Nonconformances offer lot of information. They pinpoint weaknesses in processes, materials, or training. By effectively capturing and analyzing these deviations, Non-conformance Management Software can: 
